@@ -16,4 +16,4 @@ Creating a new branch is quick & simple.
 
 add merge
 --no-ff
-Fast Forward
+no Fast Forward
