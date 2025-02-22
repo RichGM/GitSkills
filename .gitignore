@@ -1,3 +1,15 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# My configurations:
+db.ini
+deploy_key_rsa
+
+# 不排除.gitignore
+!.gitignore
+
 # Compiled class file
 *.class
 
