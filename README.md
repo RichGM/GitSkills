@@ -9,3 +9,5 @@ Git学习实践项目：从零开发，最好的方式是先创建远程库，�
 如果是文件夹：git rm -r --cached 文件夹名
 如果是文件：git rm --cached 文件名
 方法参考自：https://stackoverflow.com/questions/9550437/how-to-make-git-ignore-idea-files-created-by-rubymine
+
+Creating a new branch is quick.
